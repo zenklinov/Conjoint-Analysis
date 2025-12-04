@@ -125,7 +125,7 @@ To determine which attribute acts as the primary driver for decision-making (e.g
 
 ---
 
-## 📊 Key Results & Policy Recommendations
+## Key Results & Policy Recommendations
 
 Based on the synthetic data analysis performed in the included case studies, the following insights were derived:
 
@@ -141,7 +141,7 @@ The analysis suggests that citizens prioritize infrastructure functionality and 
 
 ---
 
-## 💻 Requirements
+## Requirements
 
 To run the notebooks in this repository, you will need Python installed along with the following data science libraries:
 
